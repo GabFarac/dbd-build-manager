@@ -1,0 +1,23 @@
+{
+  "dbd_builds": [
+    {
+      "type": "killer",
+      "name": "Speed Dredge",
+      "killer": "The Dredge",
+      "perks": [
+        "Rapid Brutality",
+        "Furtive Chase",
+        "Batteries Included",
+        "Friends ‘Til the End"
+      ],
+      "addons": [
+        "Boat Key",
+        "Haddie’s Calendar"
+      ],
+      "comments": "",
+      "notes": "",
+      "tags": [],
+      "is_favorite": false
+    }
+  ]
+}
