@@ -1,5 +1,3 @@
-# dbd-build-manager
-
 # 💀 DBD Build Manager
 
 Aplicativo desktop em **Python + CustomTkinter** para gerenciar builds do **Dead by Daylight**, com banco de dados **SQLite** local, tema claro/escuro, backups automáticos, exportação em JSON/PNG e sistema de importação dos dados oficiais do jogo.
@@ -172,3 +170,26 @@ internet — e oferece baixar e aplicar (preservando builds e dados).
 
 O que a atualização NUNCA toca: `data/` (builds, ícones, banco),
 `backups/` e o `update_url.txt` de cada pessoa.
+
+## Biblioteca de Builds da Comunidade
+
+Compartilhe e descubra builds com outras pessoas que usam o app, direto
+pelo mesmo repositório do GitHub já configurado para as atualizações
+(sem criar conta nem configurar nada a mais).
+
+**Para importar builds da galera:** clique em **🌐 Comunidade** no topo
+do app. A lista carrega sozinha; clique em **⬇ Importar** na build que
+quiser.
+
+**Para compartilhar uma build sua:**
+1. Exporte a build pelo botão **JSON** (aba Survivors ou Killers).
+2. Dê um nome descritivo ao arquivo (ex.: `GenRush_TheGhoul_por_Voce.json`).
+3. Na janela **🌐 Comunidade**, clique em **📤 Como compartilhar sua build**
+   e depois em **🔗 Abrir página de envio no GitHub** — isso abre a pasta
+   `builds/` do repositório pronta para você arrastar o arquivo e
+   confirmar (Commit changes).
+4. Pronto — na próxima vez que alguém abrir a Biblioteca, sua build
+   já aparece na lista.
+
+Requer que a atualização automática já esteja configurada (arquivo
+`update_url.txt`) — veja a seção anterior deste README.
