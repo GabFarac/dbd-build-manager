@@ -1,5 +1,5 @@
 {
- "version": "1.3.4",
- "zip_url": "https://github.com/GabFarac/dbd-build-manager/releases/download/v1.3.4/DBDBuildManager-v1.3.4.zip",
- "notes": "Correção de alguns textos estarem alterados"
+ "version": "1.4.0",
+ "zip_url": "https://github.com/GabFarac/dbd-build-manager/releases/download/v1.4.0/DBDBuildManager-v1.4.0.zip",
+ "notes": "Roleta de builds."
 }
