@@ -1,0 +1,23 @@
+{
+  "dbd_builds": [
+    {
+      "type": "killer",
+      "name": "Default Spirit",
+      "killer": "The Spirit",
+      "perks": [
+        "Friends ‘Til the End",
+        "Lethal Pursuer",
+        "Dead Man’s Switch",
+        "Scourge Hook: Pain Resonance"
+      ],
+      "addons": [
+        "Rusty Flute",
+        "Muddy Sports Day Cap"
+      ],
+      "comments": "",
+      "notes": "",
+      "tags": [],
+      "is_favorite": false
+    }
+  ]
+}

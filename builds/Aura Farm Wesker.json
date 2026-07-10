@@ -1,0 +1,23 @@
+{
+  "dbd_builds": [
+    {
+      "type": "killer",
+      "name": "Aura Farm Wesker",
+      "killer": "The Mastermind",
+      "perks": [
+        "Unnerving Presence",
+        "Coulrophobia",
+        "Distressing",
+        "Hex: Blood Favor"
+      ],
+      "addons": [
+        "Egg (Gold)",
+        "Jewel Beetle"
+      ],
+      "comments": "",
+      "notes": "",
+      "tags": [],
+      "is_favorite": false
+    }
+  ]
+}

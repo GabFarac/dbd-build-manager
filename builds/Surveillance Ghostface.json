@@ -1,0 +1,23 @@
+{
+  "dbd_builds": [
+    {
+      "type": "killer",
+      "name": "I Can See You",
+      "killer": "The Ghost Face",
+      "perks": [
+        "Surge",
+        "Mindbreaker",
+        "Surveillance",
+        "Lethal Pursuer"
+      ],
+      "addons": [
+        "Victim’s Detailed Routine",
+        "“Philly”"
+      ],
+      "comments": "",
+      "notes": "",
+      "tags": [],
+      "is_favorite": false
+    }
+  ]
+}

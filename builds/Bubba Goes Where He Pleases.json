@@ -1,0 +1,23 @@
+{
+  "dbd_builds": [
+    {
+      "type": "killer",
+      "name": "Bubba Goes Where He Pleases",
+      "killer": "The Cannibal",
+      "perks": [
+        "Corrupt Intervention",
+        "Bamboozle",
+        "Infectious Fright",
+        "Forced Hesitation"
+      ],
+      "addons": [
+        "Iridescent Flesh",
+        "The Beast's Marks"
+      ],
+      "comments": "",
+      "notes": "",
+      "tags": [],
+      "is_favorite": false
+    }
+  ]
+}

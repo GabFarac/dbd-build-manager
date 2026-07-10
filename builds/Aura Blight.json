@@ -1,0 +1,23 @@
+{
+  "dbd_builds": [
+    {
+      "type": "killer",
+      "name": "Run Run Run",
+      "killer": "The Blight",
+      "perks": [
+        "Friends ‘Til the End",
+        "Lethal Pursuer",
+        "Scourge Hook: Pain Resonance",
+        "Grim Embrace"
+      ],
+      "addons": [
+        "Blighted Crow",
+        "Compound Twenty-One"
+      ],
+      "comments": "",
+      "notes": "",
+      "tags": [],
+      "is_favorite": false
+    }
+  ]
+}

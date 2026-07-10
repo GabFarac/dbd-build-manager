@@ -1,0 +1,23 @@
+{
+  "dbd_builds": [
+    {
+      "type": "killer",
+      "name": "Devour Springtrap",
+      "killer": "The Animatronic",
+      "perks": [
+        "Make your Choice",
+        "Scourge Hook: Floods of Rage",
+        "Hex: Devour Hope",
+        "Hex: Undying"
+      ],
+      "addons": [
+        "Iridescent Remnant",
+        "Streamers"
+      ],
+      "comments": "",
+      "notes": "",
+      "tags": [],
+      "is_favorite": false
+    }
+  ]
+}

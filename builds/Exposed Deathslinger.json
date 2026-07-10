@@ -1,0 +1,23 @@
+{
+  "dbd_builds": [
+    {
+      "type": "killer",
+      "name": "Exposed Slinger",
+      "killer": "The Deathslinger",
+      "perks": [
+        "Agitation",
+        "Starstruck",
+        "Surge",
+        "Scourge Hook: Pain Resonance"
+      ],
+      "addons": [
+        "Iridescent Coin",
+        "Warden’s Keys"
+      ],
+      "comments": "",
+      "notes": "",
+      "tags": [],
+      "is_favorite": false
+    }
+  ]
+}

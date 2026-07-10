@@ -1,0 +1,23 @@
+{
+  "dbd_builds": [
+    {
+      "type": "killer",
+      "name": "Jason Hex",
+      "killer": "The Slasher",
+      "perks": [
+        "Hex: Ruin",
+        "Hex: Thrill of the Hunt",
+        "Hex: Undying",
+        "Hex: Blood Favor"
+      ],
+      "addons": [
+        "Deputy's Badge",
+        "Sauna Rock"
+      ],
+      "comments": "",
+      "notes": "",
+      "tags": [],
+      "is_favorite": false
+    }
+  ]
+}

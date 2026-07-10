@@ -1,0 +1,23 @@
+{
+  "dbd_builds": [
+    {
+      "type": "killer",
+      "name": "Bamboozle Alien",
+      "killer": "The Xenomorph",
+      "perks": [
+        "Bamboozle",
+        "Eruption",
+        "Pop Goes the Weasel",
+        "Nowhere to Hide"
+      ],
+      "addons": [
+        "Self-Destruct Bolt",
+        "Lambert’s Star Map"
+      ],
+      "comments": "",
+      "notes": "",
+      "tags": [],
+      "is_favorite": false
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "dbd_builds": [
+    {
+      "type": "killer",
+      "name": "Default Trickster",
+      "killer": "The Trickster",
+      "perks": [
+        "Scourge Hook: Pain Resonance",
+        "Scourge Hook: Jagged Compass",
+        "Scourge Hook: Floods of Rage",
+        "Dead Man’s Switch"
+      ],
+      "addons": [
+        "Memento Blades",
+        "Tequila Moonrock"
+      ],
+      "comments": "",
+      "notes": "",
+      "tags": [],
+      "is_favorite": false
+    }
+  ]
+}

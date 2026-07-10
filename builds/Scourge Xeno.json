@@ -1,0 +1,23 @@
+{
+  "dbd_builds": [
+    {
+      "type": "killer",
+      "name": "Scourge Xeno",
+      "killer": "The Xenomorph",
+      "perks": [
+        "Scourge Hook: Gift of Pain",
+        "Scourge Hook: Jagged Compass",
+        "Scourge Hook: Floods of Rage",
+        "Scourge Hook: Pain Resonance"
+      ],
+      "addons": [
+        "Harpoon Gun",
+        "Lambert’s Star Map"
+      ],
+      "comments": "",
+      "notes": "",
+      "tags": [],
+      "is_favorite": false
+    }
+  ]
+}

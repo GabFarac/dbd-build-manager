@@ -1,0 +1,23 @@
+{
+  "dbd_builds": [
+    {
+      "type": "killer",
+      "name": "Ghoul Pop",
+      "killer": "The Ghoul",
+      "perks": [
+        "Surge",
+        "Brutal Strength",
+        "Friends ‘Til the End",
+        "Thrilling Tremors"
+      ],
+      "addons": [
+        "Fresh Coffee",
+        "Red-Headed Centipede"
+      ],
+      "comments": "",
+      "notes": "",
+      "tags": [],
+      "is_favorite": false
+    }
+  ]
+}

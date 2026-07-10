@@ -1,0 +1,23 @@
+{
+  "dbd_builds": [
+    {
+      "type": "killer",
+      "name": "Default Jason",
+      "killer": "The Slasher",
+      "perks": [
+        "Scourge Hook: Pain Resonance",
+        "Thrilling Tremors",
+        "Friends ‘Til the End",
+        "Iron Grasp"
+      ],
+      "addons": [
+        "Bloody Magazine",
+        "Toxic Waste"
+      ],
+      "comments": "",
+      "notes": "",
+      "tags": [],
+      "is_favorite": false
+    }
+  ]
+}
